@@ -2,5 +2,8 @@
   "name": "fcc-bar-chart-v2",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }

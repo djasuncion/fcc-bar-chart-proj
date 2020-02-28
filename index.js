@@ -1,6 +1,6 @@
 d3.select("#viz")
   .append("h1")
-  .text("Bar Chart")
+  .text("US GDP")
   .style("text-align", "center")
   .attr("id", "title");
 
