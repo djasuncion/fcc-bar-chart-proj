@@ -4,3 +4,16 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+#tooltip {
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+
+.bar:hover {
+  fill: green;
+}
